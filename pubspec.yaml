@@ -1,8 +1,7 @@
 name: background_geolocation_plugin
 description: A new flutter plugin project.
 version: 0.0.1
-author:
-homepage:
+homepage: http://wwww.kgit.pl
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

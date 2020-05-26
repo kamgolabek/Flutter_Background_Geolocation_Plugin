@@ -43,5 +43,10 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+         <service
+            android:name="com.kgit.background_geolocation_plugin.service.BackgroundLocationService"
+            android:enabled="true"
+            android:exported="false"
+            />
     </application>
 </manifest>
